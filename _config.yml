@@ -9,7 +9,7 @@ rss: /atom.xml
 
 # Miscellaneous
 favicon: /favicon.ico
-brand: /images/hexo.svg
+brand: /images/person.svg
 
 # Ocean Video
 # Because I put videos in multiple formats on the same path, I just labeled the path here.
@@ -28,7 +28,7 @@ beian:
   url: https://beian.miit.gov.cn/
 
 # Tags
-show_count: false
+show_count: true
 
 # Toc
 toc: true
@@ -41,7 +41,7 @@ show_copy_btn: true
 
 # Gitalk
 gitalk:
-  enable: false # true
+  enable: true # true
   clientID: # GitHub Application Client ID
   clientSecret: # Client Secret
   repo: # Repository name
