@@ -10,6 +10,7 @@ rss: /atom.xml
 # Miscellaneous
 favicon: /favicon.ico
 brand: /images/person.svg
+brand: /images/person.svg
 
 # Ocean Video
 # Because I put videos in multiple formats on the same path, I just labeled the path here.
@@ -28,6 +29,7 @@ beian:
   url: https://beian.miit.gov.cn/
 
 # Tags
+show_count: true
 show_count: true
 
 # Toc
